@@ -1,6 +1,12 @@
 {
   "name": "tableau-chess-tutorial",
   "version": "0.0.0",
+  "description": "Tableau Server JS API Tutorial",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tfoldi/tableau-chess-tutorial.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
