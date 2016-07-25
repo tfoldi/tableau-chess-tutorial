@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "dependencies": {
+    "underscore": "~1.8.3",
+    "console-log-div": null,
     "jquery": "~2.0.0"
   },
   "devDependencies": {}
